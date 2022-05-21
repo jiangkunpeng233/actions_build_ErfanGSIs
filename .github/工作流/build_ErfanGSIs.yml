@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://jaist.dl.sourceforge.net/project/lallolu/LG_V50/V500/Android_R_11/havoc/Havoc-OS-v4.9-20210922-flashlmdd-Unofficial.zip
+  ROM_NAME: Havoc
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
